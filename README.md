@@ -1,7 +1,5 @@
 # Algori Shop 
 
-Contributors: [Kevin Bazira](http://kevinbazira.com)
-
 Tags: e-commerce, blog, two-columns, right-sidebar, custom-header, custom-menu, custom-logo, editor-style, featured-images, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 
 Requires at least: WP 4.9.6
@@ -129,10 +127,10 @@ Algori Shop includes support for the following plugins;
 * [Screenshot Small Image3](https://stocksnap.io/photo/IBTRJYDWWZ) , (C) StockSnap.io Photographer: Toni Cuenca, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
-Algori Shop WooCommerce WordPress Theme, Copyright 2019 Kevin Bazira<br/>
+Algori Shop WooCommerce WordPress Theme, Copyright 2023<br/>
 Algori Shop is distributed under the terms of the GNU GPL<br/><br/>
 
-_If you like this project, please 🌟 star it here_ [![GitHub stars](https://img.shields.io/github/stars/kevinbazira/algori-shop.svg?label=Stars&style=social)](https://github.com/kevinbazira/algori-shop)
+_If you like this project, please 🌟 star it here
 <br/>
-_Follow me 👋 on Twitter for more projects like this_ [![Tweet to say Hi](https://img.shields.io/twitter/follow/kevinbazira.svg?style=social&label=Tweet%20@kevinbazira)](https://twitter.com/kevinbazira/)
+_Follow me 👋 on Twitter for more projects like this
 
